@@ -40,6 +40,7 @@
           <file>file://$MODULE_DIR$/src/_01_springcore_5/solution_code_spring_injecting_literal_values/applicationContext.xml</file>
           <file>file://$MODULE_DIR$/src/_01_springcore_5/solution_code_spring_injecting_values_from_properties_file/applicationContext.xml</file>
           <file>file://$MODULE_DIR$/src/_01_springcore_5/solution_code_spring_java_config_define_beans/applicationContext.xml</file>
+          <file>file://$MODULE_DIR$/src/_01_springcore_5/_15_annotation_qualifiers_part_2/applicationContext.xml</file>
         </fileset>
       </configuration>
     </facet>
